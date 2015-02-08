@@ -122,7 +122,14 @@
          <div type="title_page">
             <pb facs="tcp:113034:1"/>
             <pb facs="tcp:113034:1" rendition="simple:additions"/>
-            <figure/>
+            <p>THE STARRY
+MESSENGER;
+<hi>OR,</hi>
+An Interpretation of that ſtrange Apparition of three
+<hi>Suns</hi> ſeene in <hi>London, 19. Novemb.</hi> 1644. being the Birth
+Day of King CHARLES.
+<figure/>
+            </p>
             <p>The effects of the Eclips of the Sun, which will be viſible in ENGLAND,
 11. <hi>Auguſt.</hi> 1645. whoſe influence continues in force, from <hi>January,</hi> 1646 to <hi>Decemb.</hi>
 1647. almoſt two whole yeares; and cannot but be the fore-runner of ſome ex<g ref="char:EOLhyphen"/>traordinary
@@ -372,17 +379,21 @@ it alſo mentioned in many mens printed Pamphlets; amongſt
 the reſt, I hear the witty <hi>Aulicus</hi> hath gloſſed thereon. Sure I
 am, <hi>Britannicus</hi> promiſed ſome Conceptions, which yet are not
 come to publike view, upon that very ſubject.</p>
-            <figure>
-               <p>The forme of <gap reason="illegible" resp="#OXF" extent="2 letters">
-                     <desc>••</desc>
-                  </gap>e three <hi>Suns</hi> 
-                  <gap reason="illegible" resp="#OXF" extent="2 letters">
-                     <desc>••</desc>
-                  </gap>en in <hi>England</hi> 
-                  <gap reason="illegible" resp="#OXF" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>9. <hi>November</hi> 1644.</p>
-            </figure>
+            <p>I here repreſent the form of it, as it appeared in the Element,
+and was carefully taken and obſerved by one Maſter <hi>Heylet,</hi> who
+courteouſly communicated it unto me.
+<figure>
+                  <p>The forme of <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e three <hi>Suns</hi> 
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>en in <hi>England</hi> 
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>9. <hi>November</hi> 1644.</p>
+               </figure>
+            </p>
             <p>
                <pb n="3" facs="tcp:113034:6"/>
 I will endeavour to give a generall ſatisfaction, and firſt will
@@ -706,28 +717,37 @@ over his head, will eaſily perceive I have unfolded as much as
 <pb n="10" facs="tcp:113034:10"/>
 was fit to diſcover, and that my Judgement is not a mile and a
 half from truth.</p>
-            <figure>
-               <p>
-                  <list>
-                     <head>A Figure of the 3 Sonns appearan<g ref="char:cmbAbbrStroke">̄</g> ♂. 19 Nouember 1644. 9:45. A.M. ab ☍ ♃ in ☌ ☉ ad <g ref="char:trine">△</g> ♄.</head>
-                     <item>♀ 21 ♎ ♍ 28</item>
-                     <item>☊ 2.38 ♌ 4</item>
-                     <item>♂ 2.56 ♋ <abbr>R</abbr> ♊ 26.5</item>
-                     <item>♊ 5.34</item>
-                     <item>♃ 24:47 <abbr>R</abbr>
-                     </item>
-                     <item>♉ 2.0 ♉ 1.0</item>
-                     <item>♈ ♄ 14.32 <abbr>R</abbr> ♓ 28</item>
-                     <item>☋ 2.38 ♒ 4</item>
-                     <item>♑ ♐ 26.5</item>
-                     <item>☉<g ref="char:Moon">☽</g>. 7.51</item>
-                     <item>♐ <gap reason="illegible" resp="#OXF" extent="1 letter">
-                           <desc>•</desc>
-                        </gap>.34 ♏ 20</item>
-                     <item>☿ 18 ♏ 1.0</item>
-                  </list>
-               </p>
-            </figure>
+            <p>
+               <figure>
+                  <p>
+                     <list>
+                        <head>A Figure of the 3 Sonns appearan<g ref="char:cmbAbbrStroke">̄</g> ♂. 19 Nouember 1644. 9:45. A.M. ab ☍ ♃ in ☌ ☉ ad <g ref="char:trine">△</g> ♄.</head>
+                        <item>♀ 21 ♎ ♍ 28</item>
+                        <item>☊ 2.38 ♌ 4</item>
+                        <item>♂ 2.56 ♋ <abbr>R</abbr> ♊ 26.5</item>
+                        <item>♊ 5.34</item>
+                        <item>♃ 24:47 <abbr>R</abbr>
+                        </item>
+                        <item>♉ 2.0 ♉ 1.0</item>
+                        <item>♈ ♄ 14.32 <abbr>R</abbr> ♓ 28</item>
+                        <item>☋ 2.38 ♒ 4</item>
+                        <item>♑ ♐ 26.5</item>
+                        <item>☉<g ref="char:Moon">☽</g>. 7.51</item>
+                        <item>♐ <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.34 ♏ 20</item>
+                        <item>☿ 18 ♏ 1.0</item>
+                     </list>
+                  </p>
+               </figure>
+A Figure erected
+for the middle
+time of the three
+Suns appearance
+the 19 of <hi>No<g ref="char:EOLhyphen"/>vember,</hi>
+1644.
+9 <hi>hor. 45 min.</hi>
+A. M.</p>
             <p>Londinum Ang<g ref="char:EOLhyphen"/>liae.</p>
             <p>MAny Philoſophers are of opinion, that theſe falſe Suns, a<g ref="char:EOLhyphen"/>mongſt
 the learned called <hi>Parelii,</hi> do eſpecially appear,
@@ -1373,7 +1393,11 @@ determine in leſſe time then three whole yeers.
 Effects probably like to ſucceed the Eclipſe of
 the Sun upon the eleventh day of Auguſt,
 1645, being Munday.</head>
-            <figure/>
+            <p>
+               <figure/>
+THe Eclipſe is in
+28 <hi>d. 28 m. Leo.</hi>
+            </p>
             <p>Its beginning is at
 10 <hi>ho. 17 min.</hi> before
 noon.</p>
